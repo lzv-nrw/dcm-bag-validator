@@ -1,0 +1,18 @@
+{
+    "BagIt-Payload-Profile-Info": {
+        "Source-Organization": "LZV.nrw",
+        "External-Description": "BagIt Payload Profile for Consistent Deposit to DCM",
+        "BagIt-Payload-Profile-Identifier": "test_dcm_bag_validator/fixtures/payload_profile.json",
+        "Version": "1.0.0"
+    },
+    "Payload-Folders-Required": [
+        "preservation_master"
+    ],
+    "Payload-Folders-Allowed": [
+        "preservation_master", {
+            "regex": "modified_master\/\\d+"
+        }, {
+            "regex": "derivative_copy\/\\d+"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2024-02-27T17:10:40.706577</responseDate>
+  <request identifier="test:oai_dc:fce02c7e-9e9d-4ab6-bb7e-c04be5517d2c" metadataPrefix="oai_dc" verb="GetRecord">https://www.lzv.nrw/</request>
+  <GetRecord>
+    <record>
+      <header>
+        <identifier>test:oai_dc:fce02c7e-9e9d-4ab6-bb7e-c04be5517d2c</identifier>
+        <datestamp>2024-02-27</datestamp>
+      </header>
+      <metadata>
+        <oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Unmasking the Brain: Understanding the Enigmas of Brain</dc:title>
+          <dc:language>en</dc:language>
+          <dc:creator>Bottombean, Bartholomew</dc:creator>
+          <dc:contributor>Stanvard University</dc:contributor>
+          <dc:subject>Number Theory</dc:subject>
+          <dc:date>2024-02-27</dc:date>
+          <dc:type>article</dc:type>
+          <dc:format>application/pdf</dc:format>
+          <dc:identifier>https://www.lzv.nrw/some_file</dc:identifier>
+          <dc:rights>CC BY-NC 4.0</dc:rights>
+          <dc:rights>info:eu-repo/semantics/openAccess</dc:rights>
+        </oai_dc:dc>
+      </metadata>
+    </record>
+  </GetRecord>
+</OAI-PMH>

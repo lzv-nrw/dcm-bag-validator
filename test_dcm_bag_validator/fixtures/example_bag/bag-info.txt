@@ -1,0 +1,12 @@
+Bag-Software-Agent: dcm-ip-builder v0.0.0
+BagIt-Profile-Identifier: profile-identifier
+BagIt-Payload-Profile-Identifier: payload-profile-identifier
+Bagging-DateTime: 2024-02-27T17:15:15+01:00
+DC-Creator: Bottombean, Bartholomew
+DC-Rights: Public Domain
+DC-Terms-Identifier: <doi>
+DC-Title: Unmasking the Brain: Understanding the Enigmas of Humanity
+External-Identifier: fce02c7e-9e9d-4ab6-bb7e-c04be5517d2c
+Original-System-Identifier: test:oai_dc
+Payload-Oxum: 1873.5
+Source-Organization: https://d-nb.info/gnd/5091030-9
